@@ -46,7 +46,8 @@ Main product I work on uses Bitbucket, Teamcity, Octopus Deploy and Jira - I wan
 
 ## 👷‍♀️ Layout
 
-## 🎨  Mockups
+## 🎨 Design/Mockups
+![alt text](https://github.com/lornasw93/devops-analysis-tool/blob/main/wizard.PNG)
 
 ## Other
 * [Blog post](https://dev.to/lornasw93/exploring-team-city-api-with-examples-55dm) I wrote about findings with Teamcity API 
