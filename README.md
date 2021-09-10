@@ -1,3 +1,5 @@
+Please note, code is backed up on company Bitbucket, not here, as this repo is more for info.
+
 # DevOps Analysis Tool
 
 *From fun side project to new company internal tool*
